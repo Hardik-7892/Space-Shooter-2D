@@ -7,6 +7,14 @@ Defeat all the invaders and protect the galaxy to bring back peace!
 - **WASD** — Move
 - **Esc** — Pause
 
+## Screenshots
+
+![Main Page](images/main_page.png)
+![Level 1](images/level1.png)
+![Level 2](images/level2.png)
+![Level 3](images/level3.png)
+![Level Complete](images/level_complete.png)
+
 ## Download
 
 Free to download on itch.io — donations appreciated!
