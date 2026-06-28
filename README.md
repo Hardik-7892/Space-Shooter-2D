@@ -2,6 +2,12 @@
 
 Defeat all the invaders and protect the galaxy to bring back peace!
 
+## Modifications
+
+- Created 3 levels
+- Added more enemies
+- Added sounds
+
 ## Controls
 
 - **WASD** — Move
